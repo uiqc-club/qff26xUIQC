@@ -17,6 +17,8 @@ The grader allows you to check your answers as you work through the notebooks. T
 
 > **Requirement:** You must have an active and valid **IBM Quantum Platform account** to use the grader.
 
+[Qiskit Documentation](https://quantum.cloud.ibm.com/docs/en/guides)
+
 ## How to Participate
 
 1. **Choose your Fall Fest project.**
