@@ -6,9 +6,16 @@ Here you will find the following challenge materials and resources:
 * **Basque Quantum (BasQ) Folder** — containing 3 challenge materials
 * **Intermediate Notebook — Molecules as Bitstrings:** `02_molecules_as_bitstrings.ipynb`
 * **quanTA Centre / University of Saskatchewan Prompt Folder** — containing 4 challenge materials
-* **`in-the-classroom` Grader:** `in-the-classroom with grader.zip`
 * **Advanced Notebook**
 * **QUIP Document on Opportunities** — from Dr. Alexander Geng
+
+### `in-the-classroom` Module and Grader
+
+The `in-the-classroom` materials include a grader designed for participants of this year's Qiskit Fall Fest.
+
+The grader allows you to check your answers as you work through the notebooks. To activate it, simply run the **setup cell at the top of each notebook**.
+
+> **Requirement:** You must have an active and valid **IBM Quantum Platform account** to use the grader.
 
 ## How to Participate
 
