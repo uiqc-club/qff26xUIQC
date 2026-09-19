@@ -188,3 +188,13 @@ For enquiries:
 ### Have fun, experiment boldly, and keep asking questions.
 
 © 2026 University of Ibadan Quantum Computing Club
+
+## License
+
+Unless otherwise stated, original materials developed for this repository by
+the University of Ibadan Quantum Computing Club (UIQC Club) are made available
+under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+Third-party challenge materials, notebooks, documents, logos, trademarks, and
+other resources included or referenced in this repository remain subject to
+their respective licenses, terms, and ownership.
