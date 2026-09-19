@@ -77,50 +77,9 @@ The emphasis is not simply on writing code that runs.
 
 Participants should aim to understand **what their quantum program is doing, why it works, and how to interpret the results**.
 
----
-
-## AI-Assisted Learning
-
-AI tools are increasingly useful for learning technical subjects, but they are most effective when used to support rather than replace reasoning.
-
-During the Fall Fest, participants are encouraged to use AI tools to:
-
-- Ask conceptual questions
-- Explore unfamiliar mathematical ideas
-- Understand Qiskit syntax
-- Debug programs
-- Compare possible approaches
-- Interpret results
-- Improve technical explanations
-- Identify topics requiring further study
-
-Participants remain responsible for understanding and being able to explain the work they submit.
-
-All significant AI assistance, external references, mentorship, and other resources used during the final project should be appropriately declared.
-
----
-
-## Guided Mentorship
-
-Participants will not be expected to navigate the programme entirely on their own.
-
-Mentorship is intended to help participants:
-
-- Identify useful learning directions
-- Overcome conceptual difficulties
-- Debug technical problems
-- Develop project ideas
-- Evaluate approaches
-- Interpret results
-- Communicate their work effectively
-
-Mentors are there to **guide the learning process**, not to complete the challenge on behalf of participants.
-
----
-
 ## Challenge Materials
 
-The repository contains challenges at different levels of difficulty.
+The repository contains challenges (and useful resources) at different levels of difficulty.
 
 Current materials include:
 
@@ -136,7 +95,7 @@ Current materials include:
 
 For complete challenge instructions, project requirements, submission rules, and deadlines, see:
 
-➡️ **[Challenge Guide](challenges/challenge.md)**
+➡️ **[Challenge Guide](Challenges/README.md)**
 
 ---
 
@@ -150,7 +109,7 @@ For complete challenge instructions, project requirements, submission rules, and
 | Final Project Submission | **October 21, 2026** |
 | Programme Conclusion | **October 23, 2026** |
 
-> Project submission requirements and instructions are provided in [`challenge.md`](challenges/challenge.md).
+> Project submission requirements and instructions are provided in [`challenge.md`](Challenges/README.md).
 
 ---
 
@@ -186,7 +145,7 @@ If you are participating in the Fall Fest:
 8. Develop, document, and test your project in your fork.
 9. Submit your final project and assistance declaration.
 
-Detailed project instructions are available in [`challenge.md`](challenges/challenge.md).
+Detailed project instructions are available in [`challenge.md`](Challenges/README.md).
 
 ---
 
