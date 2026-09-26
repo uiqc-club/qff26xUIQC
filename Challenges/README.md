@@ -6,8 +6,9 @@ Here you will find the following challenge materials and resources:
 * **Basque Quantum (BasQ) Folder** — containing 3 challenge materials
 * **Intermediate Notebook — Molecules as Bitstrings:** `02_molecules_as_bitstrings.ipynb`
 * **quanTA Centre / University of Saskatchewan Prompt Folder** — containing 4 challenge materials
-* **Advanced Notebook**
-* **QUIP Document on Opportunities** — from Dr. Alexander Geng
+* **McGill University Sponspored Hackathon Prompt** 
+* **Advanced Notebook (The Full SQD Pipeline)** `03_the_full_sqd_pipeline.ipynb`
+* **QUIP Document on Opportunities** — Dr. Alexander Geng
 
 ### `in-the-classroom` Module and Grader
 
